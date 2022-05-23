@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "adjective": "handsome",
+      "verb": "Walk",
+      "place": "the room",
+      "verb2": "take",
+      "noun": "guitar"
+    }
+  ]
+}

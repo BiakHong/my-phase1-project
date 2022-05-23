@@ -1,0 +1,72 @@
+body{
+    background-color: black;
+}
+#forms{
+    align-content: center;
+    position: relative;
+    text-align: center;
+    color: white;
+    
+    margin-top: 35vh;}
+
+#theSentence{
+    color: aliceblue;
+    text-align: center;
+    size:30px;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
+#theList{
+    color: white;
+    text-align: center;
+    
+}
+#forms img {
+    position: relative;
+    height: 80vh;
+    object-fit:contain;
+    opacity: 100%;
+  }
+  p{
+      size: 34px;
+  }
+  #btn{
+    position:relative;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -10%);
+    -ms-transform: translate(-50%, -50%);
+    color: black;
+    font-size: 10px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: auto;
+    
+
+  }
+  #btn:hover {
+    background-color: rgb(148, 148, 148);
+  }
+
+  .container {
+    position: relative;
+    background-color: rgb(197, 209, 167);
+    height: 95vh;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-size: cover;
+  border: 2px solid;
+  color: rgb(200, 160, 160);
+  resize: both;
+   
+   display: flex;
+   align-items: center;
+   justify-content: center;
+  
+   
+  }
